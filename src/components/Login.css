@@ -1,0 +1,69 @@
+@import url(c:\Users\berna\STRAPI\recipe\src\App.css);
+.signup {
+  width: 100vw;
+  display: block;
+}
+
+.signup .title {
+  padding-top: 5vh;
+  text-align: center;
+}
+
+.signup .title h2 {
+  font-size: 7vh;
+  color: #E09F3E;
+  text-decoration: underline;
+  font-family: gilam;
+}
+
+.signup .inputs {
+  padding-top: 5vh;
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.signup .inputs p {
+  color: #fff3b0;
+  font-weight: 500;
+  font-size: 3vh;
+  padding-bottom: 0.5vh;
+}
+
+.signup .inputs input {
+  margin-bottom: 2vh;
+  height: 5vh;
+  border-radius: 5px;
+  border: none;
+  font-family: gilam;
+  background-color: whitesmoke;
+  padding-left: 1vh;
+}
+
+.signup .inputs button {
+  font-family: gilam;
+  font-size: 25px;
+  margin-bottom: 4vh;
+  height: 5vh;
+  background-color: #335C67;
+  width: 100%;
+  border: solid 2px #E09F3E;
+  border-radius: 5px;
+  color: #E09F3E;
+}
+
+.signup .inputs .link {
+  margin-top: -1vh;
+  text-align: center;
+}
+
+.signup .inputs .link a {
+  color: #fff3b0;
+  text-decoration: none;
+  font-family: gilam;
+  font-weight: 200;
+  font-size: 18px;
+}
+/*# sourceMappingURL=Login.css.map */

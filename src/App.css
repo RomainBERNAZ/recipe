@@ -1,0 +1,17 @@
+@font-face {
+  font-family: gilam;
+  src: url("./scss/GilamDemo-Black.otf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #335C67;
+}
+
+html {
+  margin-bottom: 10vh;
+}
+/*# sourceMappingURL=App.css.map */

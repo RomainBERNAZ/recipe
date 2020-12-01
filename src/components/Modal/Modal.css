@@ -1,0 +1,85 @@
+.recipeModal {
+  display: none;
+  position: absolute;
+  z-index: 2;
+  top: 10vh;
+  background-color: #E09F3E;
+  border-radius: 10px;
+  margin-top: 5vh;
+  padding-top: 5vh;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  padding-bottom: 2vh;
+  text-align: center;
+  -webkit-box-shadow: 4px 3px;
+          box-shadow: 4px 3px;
+}
+
+.recipeModal .modalTitle {
+  display: block;
+  background-color: #E09F3E;
+}
+
+.recipeModal .modalTitle .recipeTitle {
+  margin-top: -3vh;
+  padding-bottom: 1vh;
+  font-size: 4.5vh;
+  background-color: #E09F3E;
+  color: #FFF3B0;
+  font-family: gilam;
+}
+
+.recipeModal .modalTitle button {
+  border: none;
+  outline: none;
+}
+
+.recipeModal .modalTitle button i {
+  position: absolute;
+  top: 3vh;
+  right: 7vw;
+  font-size: 3vh;
+  color: #FFF3B0;
+  background-color: #E09F3E;
+}
+
+.recipeModal form {
+  background-color: #E09F3E;
+}
+
+.recipeModal form .titleInput {
+  background-color: white;
+  height: 4vh;
+  border: none;
+  border-radius: 10px;
+  padding-left: 1vh;
+  margin-bottom: 2vh;
+}
+
+.recipeModal form textarea {
+  padding: 1vh;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+}
+
+.recipeModal form .imageInput {
+  padding-top: 2vh;
+  padding-bottom: 1vh;
+  background-color: #E09F3E;
+  color: #FFF3B0;
+  font-family: gilam;
+}
+
+.recipeModal form .saveModal {
+  background-color: #FFF3B0;
+  color: #E09F3E;
+  border: none;
+  border-radius: 10px;
+  height: 4vh;
+  width: 20vw;
+  margin-top: 2vh;
+  font-family: gilam;
+  font-size: 2vh;
+}
+/*# sourceMappingURL=Modal.css.map */

@@ -1,0 +1,47 @@
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.header button {
+  border: none;
+  outline: none;
+}
+
+.header button i {
+  padding: 3vh;
+  font-size: 5vh;
+  color: #E09F3E;
+}
+
+.header .account {
+  border: #FFF3B0 solid 2px;
+  margin: 2vh;
+  padding: 1vh;
+  font-family: gilam;
+  font-size: 2vh;
+}
+
+.header .account p {
+  color: #FFF3B0;
+}
+
+.header .account a {
+  color: #FFF3B0;
+  text-decoration: none;
+  font-weight: 100;
+}
+
+h1 {
+  padding-top: 3vh;
+  font-size: 7vh;
+  text-align: center;
+  font-family: gilam;
+  color: #E09F3E;
+  text-decoration: underline;
+}
+/*# sourceMappingURL=Main.css.map */
