@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/recipe/static/css/main.0b8d09d7.chunk.css",
+    "main.js": "/recipe/static/js/main.b20784b6.chunk.js",
+    "main.js.map": "/recipe/static/js/main.b20784b6.chunk.js.map",
+    "runtime-main.js": "/recipe/static/js/runtime-main.fd2d031a.js",
+    "runtime-main.js.map": "/recipe/static/js/runtime-main.fd2d031a.js.map",
+    "static/js/2.e0a40168.chunk.js": "/recipe/static/js/2.e0a40168.chunk.js",
+    "static/js/2.e0a40168.chunk.js.map": "/recipe/static/js/2.e0a40168.chunk.js.map",
+    "static/js/3.14fe5a80.chunk.js": "/recipe/static/js/3.14fe5a80.chunk.js",
+    "static/js/3.14fe5a80.chunk.js.map": "/recipe/static/js/3.14fe5a80.chunk.js.map",
+    "index.html": "/recipe/index.html",
+    "static/css/main.0b8d09d7.chunk.css.map": "/recipe/static/css/main.0b8d09d7.chunk.css.map",
+    "static/js/2.e0a40168.chunk.js.LICENSE.txt": "/recipe/static/js/2.e0a40168.chunk.js.LICENSE.txt",
+    "static/media/Login.css": "/recipe/static/media/GilamDemo-Black.20077e9e.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd2d031a.js",
+    "static/js/2.e0a40168.chunk.js",
+    "static/css/main.0b8d09d7.chunk.css",
+    "static/js/main.b20784b6.chunk.js"
+  ]
+}
